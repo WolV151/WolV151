@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @WolV151, also known as Marin
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning Java and MongoDB
+- 🌱 I’m currently a college student in third year.
