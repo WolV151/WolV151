@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @WolV151, also known as Marin.
-- 👀 I’m interested in solving my issues with programming.
-- 🌱 I’m currently a college student in fourth year.
+- 👀 I’m interested in solving my issues with programming. I also love writing short stories and enjoy a bit of reading sometimes
+- 🌱 I’m currently a college student in fourth (final) year. I am planning to pursue an MSc in Cybersecurity after my BSc.
