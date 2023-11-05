@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @WolV151, also known as Marin.
 - 👀 I’m interested in solving my issues with programming. I also love writing short stories and enjoy a bit of reading sometimes
-- 🌱 I’m currently a graduate. I am planning to pursue an MSc in Cybersecurity in September.
+- 🌱 I’m a Software Development graduate. I am currently pursuing an MSc in Cybersecurity.
